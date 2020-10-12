@@ -1,3 +1,3 @@
-# KOKOA PRACTICE 2020
+# KOKOA CLONE PRACTICE
 
-This is a project for practice of Kokoa-clone.
+This is for practice kokoa clone course:)
