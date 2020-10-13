@@ -1,12 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
-@import "css/reset.css";
-@import "css/valuables.css";
+
+@import "reset.css";
+@import "valuables.css";
 
 /* Components */
-@import "css/components/status-bar.css";
+@import "components/status-bar.css";
 
 /* On Screens */
-@import "css/onscreen/log-in.css";
+@import "onscreen/log-in.css";
 
 body {
   height: 100vh;
